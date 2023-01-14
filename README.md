@@ -1,5 +1,5 @@
 # Encryption+ Anti-Malware Module
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://tiktok.com/@setstok)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.roblox.com/library/12146283907/)
 ## Detection Methods
 By using simple methods like 
 ```lua 
